@@ -1,4 +1,4 @@
-# Global-Retail-Sales-Insights-Project
+# Global-Retail-Sales-Insights-Project - Power BI
 
 📌 Project Overview:
 
