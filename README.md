@@ -1,131 +1,175 @@
-# Global-Retail-Sales-Insights-Project - Power BI
+# 🌍 Global Retail Sales Insights Project
 
-# 📌 Project Overview:
+## 📌 Project Overview
 
-This project focuses on analyzing Adidas US Sales Data to uncover business insights, sales trends, customer behavior, and regional performance using Data Analytics techniques
+This project focuses on analyzing **Global Retail Sales Data** to uncover valuable business insights related to sales performance, customer behavior, product trends, and regional profitability.
 
----
+The project demonstrates practical skills in:
 
-# The project demonstrates practical implementation of:
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Business Intelligence
+* Data Visualization
+* Sales & Profit Analysis
+* Insight Generation
 
-*Data Cleaning,
-*Data Analysis,
-*Exploratory Data Analysis (EDA),
-*Business Intelligence,
-*Data Visualization,
-*Insight Generation
-
----
-
- # The objective of this case study is to analyze Adidas sales performance across different regions, retailers, products, and sales methods to support business decision-making:
+The objective of this project is to transform raw retail sales data into actionable business insights that support strategic decision-making.
 
 ---
 
-# 🎯 Project Objectives:
-*Analyze Adidas US sales performance,
-*Identify top-performing regions and retailers,
-*Understand product-wise sales trends,
-*Evaluate profit and operating margin performance,
-*Discover sales patterns and business opportunities,
-*Generate actionable business insights
+# 🎯 Project Objectives
+
+* Analyze global retail sales performance
+* Identify top-performing products and categories
+* Understand regional sales trends
+* Evaluate profit and revenue performance
+* Discover customer purchasing patterns
+* Generate business recommendations through data analysis
 
 ---
 
-# 🛠️ Technologies Used:
+# 🛠️ Technologies Used
 
-*Technology , Purpose:
-*Python :Data Analysis
-*Pandas	: Data Cleaning & Manipulation
-*NumPy	: Numerical Operations
-*Matplotlib	:Data Visualization
-*Seaborn : Statistical Visualization
-*Jupyter Notebook : 	Analysis Environment
-*Power BI / Excel :	Dashboard & Reporting
-
----
-
-# 📂 Project Structure:
-
-*├── Adidas US Sales Dataset.csv,
-*├── Adidas US Sales Analysis.ipynb,
-*├── Adidas US Sales Project Case Study.pdf,
-*├── Adidas US Sales Presentation.pptx,
-*└── README.md
+| Technology       | Purpose                      |
+| ---------------- | ---------------------------- |
+| Python           | Data Analysis                |
+| Pandas           | Data Cleaning & Manipulation |
+| NumPy            | Numerical Operations         |
+| Matplotlib       | Data Visualization           |
+| Seaborn          | Statistical Visualization    |
+| Jupyter Notebook | Development Environment      |
+| Power BI / Excel | Dashboard & Reporting        |
 
 ---
 
-# 📊 Dataset Information:
-The dataset contains Adidas sales-related information such as:
+# 📂 Project Structure
 
-*Retailer,
-*Region,
-*State,
-*Product Category,
-*Units Sold,
-*Sales Revenue,
-*Operating Profit,
-*Operating Margin,
-*Sales Method,
-*Price Per Unit
+```bash
+├── Global Retail Sales Dataset.csv
+├── Global Retail Sales Analysis.ipynb
+├── Global Retail Sales Insights Report.pdf
+├── Project Presentation.pptx
+└── README.md
+```
 
 ---
 
-# 🔍 Exploratory Data Analysis (EDA):
- The project includes:
+# 📊 Dataset Information
 
-*Data Cleaning,
-*Handling Missing Values,
-*Duplicate Removal,
-*Statistical Analysis,
-*Sales Trend Analysis,
-*Profitability Analysis,
-*Region-wise Analysis,
-*Retailer Performance Analysis,
-*Product Category Analysis,
-*Visualization of Business Insights
+The dataset contains retail sales information including:
+
+* Order Details
+* Product Categories
+* Customer Information
+* Sales Revenue
+* Profit
+* Quantity Sold
+* Discount
+* Region & Country
+* Shipping Details
+
+The dataset is used to analyze sales and profitability across different markets and product segments.
+
+---
+
+# 🔍 Exploratory Data Analysis (EDA)
+
+The project includes:
+
+* Data Cleaning
+* Handling Missing Values
+* Duplicate Removal
+* Statistical Analysis
+* Sales Trend Analysis
+* Profitability Analysis
+* Category-wise Analysis
+* Region-wise Performance Analysis
+* Customer Behavior Analysis
+* Data Visualization
 
 ---
 
-# 📈 Visualizations Used:
-*Bar Charts,
-*Line Charts,
-*Pie Charts,
-*Histograms,
-*Heatmaps,
-*Box Plots,
-*Scatter Plots
+# 📈 Visualizations Used
+
+* Bar Charts
+* Line Charts
+* Pie Charts
+* Histograms
+* Heatmaps
+* Box Plots
+* Scatter Plots
+
+These visualizations help identify trends, patterns, and business opportunities effectively.
 
 ---
-# 💡 Key Business Insights:
 
-*Certain regions generate significantly higher revenue,
-*Some retailers contribute major portions of total sales,
-*Specific product categories achieve higher profitability,
-*Sales methods influence revenue generation,
-*Operating margins vary across regions and products
+# 💡 Key Business Insights
 
----
-# Description:
-
-*Analyzed 50K+ sales records, generating 303K profit with 12.42% margin,
-*Identified negative impact of discounts (up to -2.3 margin) on profitability,
-*Detected high-loss products (-1226 loss) despite strong sales volume,
-*Discovered regional performance, identifying Central (541K) & South (306K) as top contributors,
-*Tracked yearly growth, showing sales increase from 444K to 770K, with profit scaling to ~85K, indicating consistent business growth,
-*Delivered business insights using data visualization and storytelling techniques
+* Certain product categories generate higher revenue and profit
+* Some regions outperform others in sales performance
+* Discounts impact profitability significantly
+* Customer purchasing behavior varies across regions
+* Seasonal sales trends influence revenue generation
 
 ---
-# Challenges :
 
-*Dealing with Large Datasets,
-*Handling Relationships Between Tables (Schemas),
-*managing complex DAX calculations,
-*Overcomplicating the Dashboard
+# 📉 Analysis Performed
+
+## ✅ Sales Performance Analysis
+
+Analyzed overall sales growth and revenue distribution.
+
+## ✅ Profitability Analysis
+
+Identified high-profit and low-profit product categories.
+
+## ✅ Regional Analysis
+
+Compared sales and profit performance across different regions and countries.
+
+## ✅ Product Category Analysis
+
+Evaluated category-wise contribution to total revenue.
+
+## ✅ Customer Behavior Analysis
+
+Analyzed purchasing patterns and customer trends.
 
 ---
-# Author:
 
-Sanjay
+# 📚 Learning Outcomes
+
+Through this project, I gained hands-on experience in:
+
+* Exploratory Data Analysis (EDA)
+* Business Data Analysis
+* Data Cleaning Techniques
+* Data Visualization
+* Business Insight Generation
+* Analytical Thinking
+* Problem Solving using Data
+
+---
+
+Description :
+
+•Interpreted Global retail Sales dataset and discovered 303K profit with 12.42% margin and The negative impact of discounts on profitability
+(up to -2.3 margin)
+•Discovered Central (541K) & South (306K) regions as top contributors
+•Tracked yearly growth, with sales increasing from 444K to 770K and profit rising to ~85K, indicating consistent business growth
+•Delivered business insights using data visualization and storytelling techniques
+
+---
+Challenges :
+
+Dealing with Large Datasets
+Handling Relationships Between Tables (Schemas)
+managing complex DAX calculations
+Overcomplicating the Dashboard
+
+# 👨‍💻 Author
+
+**Sanjay**
 Aspiring Data Analyst | Python | SQL | Power BI | Data Analytics
 
 ---
